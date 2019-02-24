@@ -1,0 +1,7 @@
+https://www.hackerrank.com/challenges/weather-observation-station-13/problem
+
+TRUNCATE에 대한 이해
+```
+SELECT TRUNCATE(2.465,1);
+2.4
+```
